@@ -1,2 +1,1 @@
-# poc-kotlin-spring-boot
-Kotlin Spring Boot
+# PoC Kotlin with Spring Boot
